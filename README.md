@@ -4,7 +4,6 @@
 # Table of Contents
 
 1. [Executive Summary](#1-executive-summary)  
-   - [Vision](#vision)
 
 2. [Objectives & Key Results (OKRs)](#2-objectives--key-results-okrs)
 
@@ -15,32 +14,31 @@
 4. [User Personas & Needs](#4-user-personas--needs)
     - [Validation Channels](#validation-channels)
 
-5. [Detailed Roadmap (12 Months) & Iterations](#detailed-roadmap-12-months--iterations)
+5. [Detailed Roadmap (12 Months) & Iterations](#5-detailed-roadmap-12-months--iterations)
 
-6. [Epics & Features](#epics--features)
+6. [Epics & Features](#6-epics--features)
 
-7. [Functional Requirements (FRs)](#functional-requirements-frs)
+7. [Functional Requirements (FRs)](#7-functional-requirements-frs)
 
-8. [Non-Functional Requirements (NFRs)](#non-functional-requirements-nfrs)
+8. [Non-Functional Requirements (NFRs)](#8-non-functional-requirements-nfrs)
 
-9. [User Stories & Acceptance Criteria](#user-stories--acceptance-criteria)
+9. [User Stories & Acceptance Criteria](#9-user-stories--acceptance-criteria)
 
-10. [Tasks (Indicative Examples)](#tasks-indicative-examples)
+10. [Tasks (Indicative Examples)](#10-tasks-indicative-examples)
 
-11. [Analytics & Continuous Improvement](#analytics--continuous-improvement)
+11. [Analytics & Continuous Improvement](#11-analytics--continuous-improvement)
 
-12. [Risks & Mitigations](#risks--mitigations)
+12. [Risks & Mitigations](#12-risks--mitigations)
 
-13. [QA & Testing Strategy](#qa--testing-strategy)
+13. [QA & Testing Strategy](#13-qa--testing-strategy)
 
-14. [UX & Design Principles](#ux--design-principles)
+14. [UX & Design Principles](#14-ux--design-principles)
 
-15. [Go-To-Market (GTM) Strategy](#go-to-market-gtm-strategy)
-    - [Measurement of GTM Success](#measurement-of-gtm-success)
+15. [Go-To-Market (GTM) Strategy](#15-go-to-market-gtm-strategy)
 
-16. [Stakeholder Sign-Off & Governance](#stakeholder-sign-off--governance)
+16. [Stakeholder Sign-Off & Governance](#16-stakeholder-sign-off--governance)
 
-17. [Roadmap](#roadmap)
+17. [Roadmap](#17-roadmap)
 
 
 ## 1. Executive Summary
@@ -335,7 +333,7 @@ No launch proceeds without unanimous sign-off, confirming alignment, feasibility
 
 ---
 
-## 17. RoadmapAccc
+## 17. Roadmap
 
 | Timeline           | Phase                           | Key Tasks                                                                                   | Integrated Epics/Areas          | Teams Involved                             | Dependencies                                       | Iteration Goals & Success Metrics                                                                                                | Deliverables                                               | Review & Feedback Points                                                                            | Risks                                                   | Mitigation Plans                                          | Outcomes                                                                                         | Community Engagement Tools                               | Incorporated Learnings                                                               | SAFe Milestones                          |
 |--------------------|---------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------|
