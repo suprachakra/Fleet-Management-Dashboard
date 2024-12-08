@@ -1,6 +1,48 @@
 
 # Fleet Management Dashboard (FMD)
 
+# Table of Contents
+
+1. [Executive Summary](#executive-summary)
+    - [Vision](#vision)
+
+2. [Objectives & Key Results (OKRs)](#objectives--key-results-okrs)
+
+3. [Scope & MVP Definition](#scope--mvp-definition)
+    - [In-Scope](#in-scope)
+    - [MVP (at 5 months)](#mvp-at-5-months)
+
+4. [User Personas & Needs](#user-personas--needs)
+    - [Validation Channels](#validation-channels)
+
+5. [Detailed Roadmap (12 Months) & Iterations](#detailed-roadmap-12-months--iterations)
+
+6. [Epics & Features](#epics--features)
+
+7. [Functional Requirements (FRs)](#functional-requirements-frs)
+
+8. [Non-Functional Requirements (NFRs)](#non-functional-requirements-nfrs)
+
+9. [User Stories & Acceptance Criteria](#user-stories--acceptance-criteria)
+
+10. [Tasks (Indicative Examples)](#tasks-indicative-examples)
+
+11. [Analytics & Continuous Improvement](#analytics--continuous-improvement)
+
+12. [Risks & Mitigations](#risks--mitigations)
+
+13. [QA & Testing Strategy](#qa--testing-strategy)
+
+14. [UX & Design Principles](#ux--design-principles)
+
+15. [Go-To-Market (GTM) Strategy](#go-to-market-gtm-strategy)
+    - [Measurement of GTM Success](#measurement-of-gtm-success)
+
+16. [Stakeholder Sign-Off & Governance](#stakeholder-sign-off--governance)
+
+17. [Roadmap](#roadmap)
+
+
 ## 1. Executive Summary
 
 **Vision:**  
