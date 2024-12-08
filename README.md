@@ -3,14 +3,14 @@
 
 # Table of Contents
 
-1. [Executive Summary](#executive-summary)
-    - [Vision](#vision)
+1. [Executive Summary](#executive-summary)  
+   - [Vision](#vision)
 
 2. [Objectives & Key Results (OKRs)](#objectives--key-results-okrs)
 
-3. [Scope & MVP Definition](#scope--mvp-definition)
-    - [In-Scope](#in-scope)
-    - [MVP (at 5 months)](#mvp-at-5-months)
+3. [Scope & MVP Definition](#scope--mvp-definition)  
+   - [In-Scope](#in-scope)  
+   - [MVP (at 5 months)](#mvp-at-5-months)
 
 4. [User Personas & Needs](#user-personas--needs)
     - [Validation Channels](#validation-channels)
